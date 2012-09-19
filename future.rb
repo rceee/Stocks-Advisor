@@ -1,4 +1,4 @@
-# Richard Carey - Stock Gain Analyzer for FutureAdvisor
+# rceee - Stock Gain Analyzer
 # Usage (*nix): ruby future.rb stocks.txt | less
 # Use up/down keys to scroll through pages
 
