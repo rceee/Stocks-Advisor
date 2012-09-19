@@ -6,7 +6,7 @@ Reads through stocks data (in txt file) to look for greatest gains; reports mont
     
 ##Stocks File Format
 
-Company Name | SYMBOL | [Array of Monthly Values (e.g., Starting in Jan 2001)]
+Company Name | SYMBOL | [Array of Monthly Dollar Values Separated by Commas]
 
 ####Example:
 
